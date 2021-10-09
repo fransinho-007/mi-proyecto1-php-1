@@ -1,5 +1,5 @@
 <?php
 
-require __DIR__ . '/ventor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 echo saludar();
