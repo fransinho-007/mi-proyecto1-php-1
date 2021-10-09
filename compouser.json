@@ -1,0 +1,14 @@
+{
+    "name": "marcoandresito/mi-proyecto1-php",
+    "autoload": {
+        "files": [
+            "src/tools.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "marcoandresito"
+        }
+    ],
+    "require": {}
+}
