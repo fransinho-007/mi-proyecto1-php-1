@@ -23,7 +23,7 @@ echo '<p>' . potencia(3,3) . '</p>';
 echo '<hr>';
 echo '<h1>obtenerPI</h1>';
 
-echo '<p>' obtenerPI() . '</p>';
+echo '<p>' . obtenerPI() . '</p>';
 
 echo '<hr>';
 echo '<h1>obtener numeros aleatorios</h1>';
