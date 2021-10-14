@@ -24,3 +24,8 @@ function potencia($n1,$n2)
 function obtenerPI(){
     return pi();
 }
+
+function obtener_numero_aleatorio($n1 = 0, $n2 = 50)
+{
+    return rand($n1, $n2);
+}
