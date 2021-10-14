@@ -28,7 +28,7 @@ echo '<p>' . obtenerPI() . '</p>';
 echo '<hr>';
 echo '<h1>obtener numeros aleatorios</h1>';
 echo "<p>entre uno y cien: " . obtener_numero_aleatorio(1,100) . "</p>";
-echo "<p>entre 0 y 50: " . obtener_numero_aleatorio(1,9) . " </p>";
+echo "<p>entre 0 y 50: " . obtener_numero_aleatorio() . " </p>";
 echo "<p>entre 80 y 90: " . obtener_numero_aleatorio(80,90) . "</p>";
 
 echo '<hr>';
