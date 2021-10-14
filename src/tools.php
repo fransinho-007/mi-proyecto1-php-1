@@ -25,8 +25,19 @@ function obtenerPI(){
     return pi();
 }
 
-function obtener_numero_aleatorio($n1 = 0, $n2 = 50)
+function obtener_numero_aleatorio($n1, $n2)
 {
     return rand($n1, $n2);
 }
 
+function obtenerArray()
+{
+    $frutas = [
+        'Pera',
+        'Manzana',
+        'Durasno',
+        'Naranga',
+        'Piña'
+    ];
+    return $frutas;
+}
