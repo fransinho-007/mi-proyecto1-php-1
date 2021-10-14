@@ -9,3 +9,9 @@ function saludar_por_nombre($nombre)
 {
     return "Hola " . $nombre . " como estas!";
 }
+
+function sumar($n1, $n2)
+{
+    $resultado = $n1 + $n2;
+    return $resultado;
+}

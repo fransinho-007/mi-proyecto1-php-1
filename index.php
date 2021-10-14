@@ -9,3 +9,9 @@ echo '<br/>';
 echo saludar_por_nombre('Andres');
 
 echo '<h1>nos vemos luego</hi1>';
+
+echo '<hr>';
+echo '<h1>sumar</h1>';
+echo '<br>'
+
+echo sumar(100, 200);
