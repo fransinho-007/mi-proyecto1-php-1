@@ -33,4 +33,4 @@ echo "<p>entre 80 y 90: " . obtener_numero_aleatorio(80,90) . "</p>";
 
 echo '<hr>';
 echo '<h1>Array</h1>';
-echo '<pre>' . obtenerArray() . '</pre>';
+echo '<pre>' . prin_r(obtenerArray()) . '</pre>';
